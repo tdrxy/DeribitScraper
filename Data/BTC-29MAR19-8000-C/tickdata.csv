@@ -1,0 +1,3 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-02-17 18:00:14.497,7.0,buy,3574.71,BTC-29MAR19-8000-C,98.5,0.001,7.0,1,1550426414497,15451074,417
+2019-02-17 18:00:14.497,3.0,buy,3574.71,BTC-29MAR19-8000-C,98.5,0.001,3.0,1,1550426414497,15451073,416

@@ -1,0 +1,2 @@
+date_utc,ticker,expirationDate,strike,right,close_btc,iv,volume,underlyingPrice,contract
+2019-02-18,BTC,27SEP19,12000,P,2.1835,76.17,1,3808.46,BTC-27SEP19-12000-P

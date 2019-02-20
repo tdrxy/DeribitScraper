@@ -1,0 +1,2 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-02-15 15:10:46.098,1.0,buy,3561.42,BTC-27SEP19-10000-P,0.0,1.8325,1.0,0,1550243446098,15397892,2
