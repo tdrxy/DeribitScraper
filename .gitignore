@@ -1,12 +1,7 @@
 
-venv
-.venv
-venv/
 .idea
 __pycache__
 Credentials.py
-Data/Market/MarketData/
-Data/Twitter/GetOldTweetsData/
 
 # Compiled source #
 ###################
@@ -45,5 +40,3 @@ Data/Twitter/GetOldTweetsData/
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-venv/
