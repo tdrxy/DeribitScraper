@@ -69,7 +69,9 @@ for contract in all_current_option_instruments:
     # In principle a lot of redundant work for existing ohcl data, but data is so sparse is okay for now
     ohcl = new_data['price'].groupby(pd.Grouper(freq='D')).transform(np.cumsum).resample('D', how='ohlc')
     iv_close = new_data['iv'].groupby(pd.Grouper(freq='D')).resample('D').apply(lambda x:x.iloc[-1])
+    iv_close.index = ohcl.index
     vol = new_data['price'].groupby(pd.Grouper(freq='D')).count()
+    vol.index=ohcl.index
     ohcl['iv'] = iv_close
     ohcl['volume'] = vol
 
