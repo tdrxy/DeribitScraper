@@ -156,6 +156,9 @@ if __name__ == "__main__":
     api_secret = Credentials.apisecret
     ###############################################
 
-    scraper = DeribitOptionScraper(api_key, api_secret, outdir="Data/")
-    scraper.update_tick_data()
-    print("Done")
+    while True:
+        time.sleep(12 * 60 * 60)
+        scraper = DeribitOptionScraper(api_key, api_secret, outdir="Data/")
+        scraper.update_tick_data()
+        print("Done")
+

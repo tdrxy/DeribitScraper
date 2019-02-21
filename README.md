@@ -11,7 +11,7 @@ Deribit limits history requests to 6-7 days. Run ever 2-3 days to update latest 
 # Result
 Each live option contract its raw (unprocessed) tick data is written/updated in *contract*/tickdata.csv .
 Moreover, tick data is aggregated on daily granularity and written to *contract*/daily_agg.csv .
-(contract dir will be of form BTC-28JUN-4000-C)
+(contract dir will be of form BTC-28JUN19-4000-C)
  
 ###features in csv files:
 - daily_agg.csv: 

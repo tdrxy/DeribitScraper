@@ -1,0 +1,2 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-02-21 09:40:54.027,3.0,buy,3904.24,BTC-1MAR19-3750-P,53.47,0.015,3.0,1,1550742054027,15736722,1
