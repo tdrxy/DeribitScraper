@@ -1,5 +1,7 @@
 # Note: Official DeribitApi github repo is outdated, local file to incorporate latest rest API changes
 import Credentials
+
+import JoinAllFiles
 from DeribitApi import RestClient
 import os
 import pandas as pd
@@ -156,9 +158,7 @@ if __name__ == "__main__":
     api_secret = Credentials.apisecret
     ###############################################
 
-    while True:
-        time.sleep(12 * 60 * 60)
-        scraper = DeribitOptionScraper(api_key, api_secret, outdir="Data/")
-        scraper.update_tick_data()
-        print("Done")
-
+    scraper = DeribitOptionScraper(api_key, api_secret, outdir="Data/")
+    scraper.update_tick_data()
+    JoinAllFiles.run()
+    print("Done")
