@@ -162,3 +162,4 @@ if __name__ == "__main__":
     scraper.update_tick_data()
     JoinAllFiles.run()
     print("Done")
+
