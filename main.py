@@ -152,6 +152,7 @@ class DeribitOptionScraper():
 
 
 if __name__ == "__main__":
+    os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
     ################ CHANGE THIS ##################
     api_key = Credentials.apikey
