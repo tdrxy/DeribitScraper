@@ -1,0 +1,2 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-02-24 00:03:01.299,0.2,sell,4111.34,BTC-29MAR19-2000-C,103.89,0.515,0.2,0,1550966581299,15854501,11
