@@ -1,0 +1,2 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-03-05 16:28:35.287,1.0,buy,3856.74,BTC-8MAR19-4125-P,63.98,0.0725,1.0,1,1551803315287,16287415,1
