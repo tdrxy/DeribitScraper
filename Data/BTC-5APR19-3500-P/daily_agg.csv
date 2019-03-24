@@ -1,0 +1,3 @@
+date_utc,ticker,expirationDate,strike,right,close_btc,iv,volume,underlyingPrice,contract
+2019-03-23,BTC,5APR19,3500,P,0.003,47.3,2,3966.26,BTC-5APR19-3500-P
+2019-03-24,BTC,5APR19,3500,P,0.0025,46.61,1,3966.8,BTC-5APR19-3500-P
