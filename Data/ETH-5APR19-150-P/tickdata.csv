@@ -1,0 +1,2 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-03-26 16:05:57.645,50.0,sell,132.91,ETH-5APR19-150-P,45.62,0.129,50.0,1,1553616357645,157539,1

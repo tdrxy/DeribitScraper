@@ -1,0 +1,2 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-03-25 15:53:10.218,29.0,sell,133.48,ETH-29MAR19-125-C,73.17,0.07,29.0,1,1553529190218,140103,1
