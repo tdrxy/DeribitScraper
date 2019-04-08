@@ -1,0 +1,2 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-04-03 19:45:31.935,7.6000000000000005,sell,5149.92,BTC-27SEP19-4250-P,64.24,0.0885,7.6000000000000005,1,1554320731935,17227063,1

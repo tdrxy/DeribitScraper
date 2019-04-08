@@ -1,2 +1,3 @@
 date_utc,ticker,expirationDate,strike,right,close_btc,iv,volume,underlyingPrice,contract
-2019-03-27,ETH,5APR19,120,C,0.13,34.75,3,137.69,ETH-5APR19-120-C
+2019-03-27,ETH,5APR19,120,C,0.128,46.72,4,137.44,ETH-5APR19-120-C
+2019-04-02,ETH,5APR19,120,C,0.16,86.48,1,142.79,ETH-5APR19-120-C

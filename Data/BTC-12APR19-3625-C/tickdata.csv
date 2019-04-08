@@ -1,0 +1,2 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-03-30 07:04:05.977,6.0,buy,4088.43,BTC-12APR19-3625-C,0.0,0.11,6.0,1,1553929445977,16976509,1

@@ -1,0 +1,3 @@
+date_utc,ticker,expirationDate,strike,right,close_btc,iv,volume,underlyingPrice,contract
+2019-04-06,ETH,27SEP19,180,P,0.22,70.36,1,168.02,ETH-27SEP19-180-P
+2019-04-08,ETH,27SEP19,180,P,0.17,74.18,2,178.21,ETH-27SEP19-180-P
