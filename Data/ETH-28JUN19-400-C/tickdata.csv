@@ -1,0 +1,2 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-04-09 15:11:11.808,2.0,sell,177.53,ETH-28JUN19-400-C,93.64,0.01,2.0,1,1554822671808,702057,1

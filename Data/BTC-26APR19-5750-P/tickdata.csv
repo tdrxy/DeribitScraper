@@ -1,0 +1,2 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-04-10 08:26:34.806,0.1,sell,5245.81,BTC-26APR19-5750-P,60.14,0.114,0.1,1,1554884794806,17595414,1
