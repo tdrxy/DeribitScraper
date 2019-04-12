@@ -1,2 +1,2 @@
 date_utc,ticker,expirationDate,strike,right,close_btc,iv,volume,underlyingPrice,contract
-2019-04-10,BTC,26APR19,5750,P,0.114,60.14,1,5245.81,BTC-26APR19-5750-P
+2019-04-10,BTC,26APR19,5750,P,0.09,62.83,8,5413.5,BTC-26APR19-5750-P

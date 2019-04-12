@@ -1,2 +1,3 @@
 date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
 2019-04-10 08:20:31.879,0.1,sell,5250.21,BTC-12APR19-5750-P,0.0,0.0935,0.1,1,1554884431879,17595310,1
+2019-04-10 18:34:49.790,4.0,buy,5451.17,BTC-12APR19-5750-P,65.02,0.057,4.0,2,1554921289790,17615727,2
