@@ -1,0 +1,2 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-05-11 23:05:53.504,100.0,buy,204.32,ETH-24MAY19-260-C,121.44,0.018,100.0,1,1557615953504,1835250,1

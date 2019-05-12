@@ -1,0 +1,3 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-05-12 07:20:07.698,0.2,buy,7497.38,BTC-24MAY19-7250-P,109.55,0.0625,0.2,1,1557645607698,19834308,1
+2019-05-12 07:20:45.256,0.3,buy,7494.32,BTC-24MAY19-7250-P,109.28,0.0625,0.3,1,1557645645256,19834379,2

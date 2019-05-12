@@ -1,0 +1,3 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-05-10 13:52:04.974,2.0,sell,6279.29,BTC-17MAY19-5000-C,0.0,0.2015,2.0,1,1557496324974,19358411,1
+2019-05-10 13:52:05.308,1.0,sell,6279.29,BTC-17MAY19-5000-C,0.0,0.2015,1.0,1,1557496325308,19358421,2

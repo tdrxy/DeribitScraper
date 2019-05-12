@@ -1,0 +1,2 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-04-25 10:47:22.696,0.1,buy,5456.29,BTC-27DEC19-12000-P,0.0,0.001,0.1,1,1556189242696,18217689,1
