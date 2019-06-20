@@ -1,0 +1,2 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-06-10 12:13:38.071,60.0,buy,244.49,ETH-14JUN19-360-P,248.39,0.481,60.0,1,1560168818071,4593515,1

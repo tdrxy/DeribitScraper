@@ -1,0 +1,3 @@
+date_utc,ticker,expirationDate,strike,right,close_btc,iv,volume,underlyingPrice,contract
+2019-05-28,BTC,7JUN19,10500,P,0.2075,49.67,15,8697.81,BTC-7JUN19-10500-P
+2019-05-29,BTC,7JUN19,10500,P,0.209,74.49,6,8703.83,BTC-7JUN19-10500-P

@@ -1,0 +1,2 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-05-28 13:30:27.975,8.0,sell,8554.71,BTC-31MAY19-10500-P,0.0,0.226,8.0,1,1559050227975,22410939,1

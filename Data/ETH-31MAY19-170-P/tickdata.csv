@@ -1,0 +1,3 @@
+date_utc,amount,direction,indexPrice,instrument,iv,price,quantity,tickDirection,timeStamp,tradeId,tradeSeq
+2019-05-17 17:34:10.755,4.0,sell,228.32,ETH-31MAY19-170-P,110.57,0.006999999999999999,4.0,1,1558114450755,2793326,1
+2019-05-21 16:21:47.163,1.0,buy,251.15,ETH-31MAY19-170-P,127.88,0.002,1.0,2,1558455707163,3231671,2

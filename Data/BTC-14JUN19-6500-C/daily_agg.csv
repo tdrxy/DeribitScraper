@@ -1,0 +1,2 @@
+date_utc,ticker,expirationDate,strike,right,close_btc,iv,volume,underlyingPrice,contract
+2019-06-12,BTC,14JUN19,6500,C,0.201,195.95,1,8110.42,BTC-14JUN19-6500-C

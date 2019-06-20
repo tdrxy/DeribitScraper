@@ -1,0 +1,4 @@
+date_utc,ticker,expirationDate,strike,right,close_btc,iv,volume,underlyingPrice,contract
+2019-06-18,ETH,28JUN19,350,C,0.004,103.94,1,263.16,ETH-28JUN19-350-C
+2019-06-19,ETH,28JUN19,350,C,0.003,97.62,7,266.93,ETH-28JUN19-350-C
+2019-06-20,ETH,28JUN19,350,C,0.002,95.7,1,266.96,ETH-28JUN19-350-C
